@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/security-oauth.iml" filepath="$PROJECT_DIR$/.idea/security-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-oauth-lib/security-oauth-lib.iml" filepath="$PROJECT_DIR$/security-oauth-lib/security-oauth-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-oauth-web/security-oauth-web.iml" filepath="$PROJECT_DIR$/security-oauth-web/security-oauth-web.iml" />
+    </modules>
+  </component>
+</project>
